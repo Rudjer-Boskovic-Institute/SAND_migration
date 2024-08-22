@@ -1,0 +1,114 @@
+##### Report Summary #####
+Total number of records: 1623
+Number of records where ISSN is found: 1287
+Number of records without ISSN: 336
+Number of duplicate ISSNs: 29
+Duplicate ISSNs: 0185-3287, 0004-637X, 0004-7112, 0097-2452, 1096-4940, 0005-8025, 0138-3647, 1330-3414, 0018-9421, 0021-3225, 0021-4922, 0021-9673, 0022-0728, 0022-0981, 0022-3727, 0502-2568, 0951-7359, 0304-4203, 1568-7864, 0369-6405, 0378-4371, 0031-9236, 0031-9333, 0079-6743, 0035-3019, 0039-7911, 0040-2176, 0036-7842, 0136-7463
+
+Number of records found and merged from CSV: 433
+
+##### 5 Random Records #####
+
+Journals_Data_Title: Investigacion Pesquera, (1955) Barcelona
+journal_autofix_title: Investigacion Pesquera
+Journals_Data_ISSN: 0020-9953
+Journals_Data_INVBR: P-1172
+Journals_Data_Location: Rovinj
+Journals_Data_Journal_Ext_Info: 19 (1955) – 52 (1988)
+
+
+
+Journals_Data_Title: Oikos, (1949) Kopenhagen
+journal_autofix_title: Oikos
+Journals_Data_ISSN: 0030-1299
+Journals_Data_INVBR: P-1378
+Journals_Data_Location: Rovinj
+Journals_Data_Journal_Ext_Info: 1 (1949/51) – 7 (1956)
+
+
+
+Journals_Data_Title: Glas und Hochvakuum-Technik, (1952) Wiesbaden
+journal_autofix_title: Glas und Hochvakuum-Technik
+Journals_Data_ISSN: 0367-469X
+Journals_Data_INVBR: P-135
+Journals_Data_Location: None
+Journals_Data_Journal_Ext_Info: *vidi: Vakuum-Technik
+
+
+
+Journals_Data_Title: Zoology Publications from Victoria University College, (1949) Wellington
+journal_autofix_title: Zoology Publications from Victoria University College
+Journals_Data_ISSN: 0375-5363
+Journals_Data_INVBR: P-1535
+Journals_Data_Location: Rovinj
+Journals_Data_Journal_Ext_Info: 1 (1949/56)|3 (1974)
+
+
+
+Journals_Data_Title: Cold Spring Harbor Sympsia, New York
+journal_autofix_title: Cold Spring Harbor Sympsia
+Journals_Data_ISSN: None
+Journals_Data_INVBR: P-955
+Journals_Data_Location: 5. krilo
+Journals_Data_Journal_Ext_Info: 16 (1951)|18 (1953)|21 (1956) – 23 (1958)|26 (1961) – 31 (1966)		Sgn. 05.25/14
+
+
+
+##### 3 Random Records Without ISSN #####
+
+Source Data: Memoirs of the Museum of Comparative Zoology of Harward College, (1864) Cambridge|inv. br. P-1293||5 (1877) No. 1-2|7 (1880) No. 1,…, – 9 (1882) No. 1|10 (1883/85) No. 1,...,4|11 (1883) |14 (1885/93) No. 1-3|15 (1887) – 17 (1890/94)|19 (1895/97) No. 1-2|20 (1897) – 23 (1897) No. 1,|27 (1912) No. …,4|30 (1905) No. …,2|37 (1909) 							****Rovinj
+
+
+
+Source Data: Centro de Investigaciones Pesqueras Contribucion, Habana|inv. br. P-929|||13 (1961) – 17 (1963)|19 (1964) – 22 (1966)|27 (1967) – 32 (1971)|34 (1972) 							****Rovinj
+
+
+
+Source Data: Acta Hydrotechnica, (1972) Ljubljana
+
+
+
+##### 3 Random Merged Records #####
+
+Journals_Data_Title: Life Sciences, (1962) Oxford
+journal_autofix_title: Life Sciences
+Journals_Data_ISSN: 0024-3205
+Journals_Data_INVBR: P-436
+Journals_Data_Location: Arhiv 1. krilo
+Journals_Data_Journal_Ext_Info: *Part I : Physiology and Pharmacology| Part II : Biochemistry, General and Molecular Biology|7 (1968) P 1,2 – 12 (1973) P 1,2|*Od vol. 13 (1973) samo u jednom dijelu|13 (1973) – 29 (1981)|30 (1982) No. 1-8|34 (1984) – 45 (1989) 					|--------------------------------------------------------------------------|46 (1990) No. …,2-26						|47 (1990) – 48 (1991) No. 1-15,|50 (1992) – 74 (2005) No. 1-5,
+Source_Line: Life Sciences, (1962) Oxford|ISSN 0024-3205|inv. br. P-436||*Part I : Physiology and Pharmacology| Part II : Biochemistry, General and Molecular Biology||7 (1968) P 1,2 – 12 (1973) P 1,2||*Od vol. 13 (1973) samo u jednom dijelu||13 (1973) – 29 (1981)|30 (1982) No. 1-8|34 (1984) – 45 (1989) 					****Arhiv 1. krilo|--------------------------------------------------------------------------|46 (1990) No. …,2-26						****5. Krilo|47 (1990) – 48 (1991) No. 1-15,|50 (1992) – 74 (2005) No. 1-5,
+CLEAN_ISSN: 0024-3205
+CLEAN_TITLE: Life sciences
+CLEAN_TITLE_ext: nan
+CLEAN_PUBLISHER: Pergamon ; Elsevier
+
+
+
+Journals_Data_Title: Physica D, (1980) Utrecht
+journal_autofix_title: Physica D
+Journals_Data_ISSN: 0167-2789
+Journals_Data_INVBR: P-610
+Journals_Data_Location: Arhiv 1. krilo
+Journals_Data_Journal_Ext_Info: *prije izlazio kao: Physica|1D (1980) – 4D (1981) No. 1,|7D (1983) – 15D (1985)|17D (1985) – 23D (1986)|25D (1987) – 46D (1990) No. 1,...,3|47D (1991) – 51D (1991) No. 1-3, |52D (1991) – 89D (1995)					|--------------------------------------------------------------------------|90D (1996) – 108D (1997) No. ...,3-4			|109D (1997) – 187D (2004)
+Source_Line: Physica D, (1980) Utrecht|ISSN 0167-2789|inv. br. P-610||*prije izlazio kao: Physica||1D (1980) – 4D (1981) No. 1,|7D (1983) – 15D (1985)|17D (1985) – 23D (1986)|25D (1987) – 46D (1990) No. 1,...,3|47D (1991) – 51D (1991) No. 1-3, |52D (1991) – 89D (1995)					****Arhiv 1. krilo|--------------------------------------------------------------------------|90D (1996) – 108D (1997) No. ...,3-4			****1. krilo|109D (1997) – 187D (2004)
+CLEAN_ISSN: 0167-2789
+CLEAN_TITLE: Physica D:
+CLEAN_TITLE_ext: nonlinear phenomena
+CLEAN_PUBLISHER: Elsevier ; North-Holland
+
+
+
+Journals_Data_Title: Vibrational Spectroscopy, (1990) Amsterdam
+journal_autofix_title: Vibrational Spectroscopy
+Journals_Data_ISSN: 0924-2031
+Journals_Data_INVBR: P-703
+Journals_Data_Location: Arhiv 1. krilo
+Journals_Data_Journal_Ext_Info: 1 (1990/91) – 30 (2002)					|*otkazan za 2003. godinu
+Source_Line: Vibrational Spectroscopy, (1990) Amsterdam|ISSN 0924-2031|inv. br. P-703||1 (1990/91) – 30 (2002)					****Arhiv 1. krilo||*otkazan za 2003. godinu
+CLEAN_ISSN: 0924-2031
+CLEAN_TITLE: Vibrational spectroscopy
+CLEAN_TITLE_ext: nan
+CLEAN_PUBLISHER: Elsevier
+
+
+
